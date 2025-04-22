@@ -28,7 +28,6 @@ def encode_query(query):
 # ---------------------------
 # Dummy Data for Demonstration
 # ---------------------------
-# Replace these dummy segments and FAISS index with your actual eBook segments and embeddings.
 try:
     all_segments  # Check if already defined
     index
